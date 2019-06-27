@@ -13,3 +13,4 @@ JS
 JQuery
 CSS3
 SASS
+isotope (https://isotope.metafizzy.co/)
