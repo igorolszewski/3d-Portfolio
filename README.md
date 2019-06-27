@@ -8,9 +8,9 @@ my architectural work.
 
 ## Built With
 
-HTML5
-JS
-JQuery
-CSS3
-SASS
-isotope (https://isotope.metafizzy.co/)
++ HTML5
++ JS
++ JQuery
++ CSS3
++ SASS
++ isotope (https://isotope.metafizzy.co/)
